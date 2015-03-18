@@ -8,10 +8,20 @@ html, body {
     font-family: "SketchRockwell", sans-serif;
     font-size: 1em;
     line-height: 1.4;
+    color: rgb(0, 0, 0);
 }
 
 .bx-wrapper img {
     margin: 0 auto;
+}
+
+.section-header {
+    text-align: center;
+}
+
+#episodes {
+    margin: 10px 50px;
+    padding: 15px;
 }
 
 .navbar-header img {
@@ -19,6 +29,9 @@ html, body {
     width: auto;
 }
 
+#language {
+    width: 300px;
+}
 
 #custom-bootstrap-menu.navbar-default .navbar-brand {
     color: rgba(19, 19, 19, 1);

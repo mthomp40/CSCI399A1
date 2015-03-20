@@ -1,0 +1,269 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Law & Order: Spéciale Victimes Unité</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/jquery-ui.min.css">
+    <link href="css/jquery.bxslider.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+<div id="custom-bootstrap-menu" class="navbar navbar-default " role="navigation">
+    <div class="container-fluid">
+        <div id="navbar-header" class="navbar-header"><a class="navbar-brand" href="#"><img src="img/logo.png"></a>
+            <button type="button" class="navbar-toggle" data-toggle="collapse"
+                    data-target=".navbar-menubuilder"><span
+                class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+                class="icon-bar"></span><span class="icon-bar"></span>
+            </button>
+        </div>
+        <div id="navbar-collapse" class="collapse navbar-collapse navbar-menubuilder">
+            <ul class="nav navbar-nav navbar-left">
+                <li><a href="/a1/index.html">Maison</a>
+                </li>
+                <li><a href="/a1/friends/index.html">Amis de SVU</a>
+                </li>
+                <li><a href="/a1/about.html">Sur</a>
+                </li>
+                <li><a href="/a1/contact.html">Contactez-Nous</a>
+                </li>
+            </ul>
+            <div id="language" class="pull-right">
+                <img src="img/french_flag.png"><span>  Francais</span>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="wrapper">
+    <div id="welcome-header">
+        <h1>Law & Order: Speciale Victimes Unite Fan Site</h1>
+    </div>
+    <ul class="bxslider">
+        <li><img src="img/NUP_165213_0480.jpg"/></li>
+        <li><img src="img/NUP_167041_0514.jpg"/></li>
+        <li><img src="img/NUP_167266_0059.jpg"/></li>
+        <li><img src="img/SVU_169.jpg"/></li>
+        <li><img src="img/SVU_172.jpg"/></li>
+        <li><img src="img/SVU_174.jpg"/></li>
+        <li><img src="img/SVU_178.jpg"/></li>
+        <li><img src="img/svu_210.jpg"/></li>
+        <li><img src="img/svu_212.jpg"/></li>
+        <li><img src="img/svu_229.jpg"/></li>
+        <li><img src="img/svu_233.jpg"/></li>
+    </ul>
+
+    <div class="section-header">
+        <h1>Episodes</h1>
+    </div>
+    <div id="episodes">
+        <h3>Saison 16 Episode 16</h3>
+
+        <div>
+            <h2>Decembre Solstice</h2>
+            <img src="img/150219_2848391_December_Solstice.jpg">
+            <p>
+                Après découverte choquante de la semaine dernière à propos de la paternité du bébé Noah, Benson demande
+                Barba plus à son appartement pour une discussion hors-la-livre. En théorie, si Johnny D. a engendré un
+                enfant avec Ellie Porter, ce est que quelque chose qui aurait NYPD de divulguer? Benson, qui a déjà
+                commencé la paperasse d'adoption pour Noah, est terrifié à perdre son bébé à un monstre du proxénétisme.
+                Barba assure Olivia que Johnny D. n'a pas à connaître, et la mère inquiète respire un soupir de
+                soulagement.<br/><br/>
+
+                Retour à la gare, Benson a deux visiteurs: Delilah et Judith Briggs, les filles de l'icône littéraire
+                Walter Briggs. Ils sont inquiets pour leur vieux père, dont le plus jeune sixième épouse, Charmaine,
+                pompes lui pleine de pilules de dysfonction érectile et lui fait avoir des relations sexuelles tous les
+                jours. Delilah et Judith ne sont pas seulement préoccupés par la sécurité de leur père, étant donné
+                qu'il a une maladie cardiaque, mais ils considèrent ce Charmaine fait comme un viol, comme Walter
+                souffre de démence et ne peut pas consentir à des relations sexuelles. Ils croient que leur belle-mère
+                veut avoir un enfant, et donc une plus grande part de sa succession quand il passe, mais ils ne peuvent
+                pas l'arrêter parce Charmaine ne sera pas les laisser à proximité de Walter.<br/><br/>
+
+                Rollins et Carisi arrêtent par la maison Briggs de faire un chèque d'aide sociale, mais quand ils
+                essaient de parler à Walter seul, Charmaine refuse de le laisser hors de sa vue. Walt affirme qu'il est
+                heureux de garder sa femme satisfait - ce est son devoir d'homme que son mari. Il semble que Walt ne se
+                plaint pas, bien qu'il ne semble confus et perd son train de pensée facilement. Le lendemain, les
+                détectives obtenir mot que Walt a eu une crise cardiaque et est à l'hôpital. Rollins et Amaro visite
+                Delilah au théâtre off-Broadway elle court, et d'apprendre Charmaine est une fois de plus refuse de
+                laisser les filles de Walt le voient, en dépit d'une ordonnance d'un tribunal. Pendant ce temps, lorsque
+                Benson et Carisi vont voir Walt, ils apprennent Charmaine lui a enlevé de l'hôpital contre avis médical.
+                Charmaine a affirmé qu'elle transférait Walt à un autre hôpital, mais il n'y a aucun signe de lui ne
+                importe où. Walt et Charmaine sont officiellement portées disparues.<br/><br/>
+
+                Heureusement, Rollins a une avance sur l'emplacement de Walt. Un conducteur d'ambulance privée lui dit
+                qu'il a reçu un appel pour ramasser Briggs et sa "femme folle," mais au lieu de les prendre à un autre
+                hôpital, Charmaine lui dit d'aller à un aéroport privé à Westchester. Apparemment, ils prenaient un
+                voyage au Canada. Le conducteur a refusé, donc Charmaine lui a fait arrêter la voiture dans le milieu de
+                la 57e rue, où elle a traîné le vieil homme dans un taxi. SVU rattrape avec le couple à l'aéroport de
+                Westchester, et au lieu d'un voyage au Canada, ils obtiennent un autre voyage au palais de justice.
+                Après ce Charmaine mis Walt travers, Delilah et la demande Judith nommés tuteurs de Walt. Le juge
+                demande Walt si sa femme se occupe de lui, à laquelle il répond qu'elle est. Cependant, quelques
+                questions plus tard, il est clair Walt a très peu idée de où il est, sans parler ce les noms de ses
+                filles sont. Le juge refuse de déterminer la tutelle jusqu'à Walt a un examen psychologique et physique,
+                elle le renvoie à l'hôpital, avec des droits de visite pour ses filles.<br/><br/>
+
+                Le lendemain matin, SVU obtient quelques nouvelles malheureux. Briggs eu une autre attaque cardiaque et
+                mourut, et puisque le juge rebutés décision sur la tutelle, sa femme a toujours le contrôle sur sa
+                succession - et son corps. Amaro et Carisi obtenir une ordonnance du tribunal et se arrêtent Charmaine
+                de prendre son corps sur un autre voyage à cache-cache. Après examen, le coroner découvre Charmaine fait
+                une dernière tentative pour avoir un enfant avec Walter avant sa mort en appelant une entreprise
+                spécialisée pour extraire son sperme une heure avant sa mort. Avec cette dernière information, au-dessus
+                des pilules bleues et le vol de l'hôpital, Barba est finalement à bord avec la théorie que Charmaine a
+                tué son mari, et est prêt à prendre le cas d'un procès.<br/><br/>
+
+                Mais juste un jour ou deux dans la trace, Dalila, Judith et Charmaine recevoir un message vidéo de
+                Walter. Dans ce document, il remercie Charmaine pour sauver sa vie et accuse ses ex-épouses de
+                transformer ses filles contre elle. Il raconte qu'il Delilah cessé de vouloir la voir après elle a écrit
+                une adaptation pour la scène terrible de l'un de ses livres et ne arrêtait pas de le harceler pour les
+                droits à elle. Il dit Charmaine lui effectivement combattu sur elle, disant un père devrait voir ses
+                enfants, mais il a refusé. Lorsque Charmaine vient à la barre, elle se explique plus loin. Walter savait
+                qu'il allait mourir et qu'il voulait mourir en paix. Elle a écrasé des pilules bleues dans sa nourriture
+                parce qu'il était fier et ne avait pas besoin de savoir un médicament aidait à effectuer. Elle voulait
+                avoir son enfant parce qu'elle aimait son mari.<br/><br/>
+
+                Après avoir vu la vidéo, Judith confronte sa sœur, furieux qu'elle lui a menti à propos de Charmaine les
+                haïr et en refusant de les laisser visiter. En fait, Delilah était la raison Walter ne voulait pas se
+                associer avec ses enfants. Elle était plus intéressé par son mauvais jeu que l'amour de son père. Judith
+                veut prendre le stand pour la défense, mais à la place, les deux parties parvenir à un accord. Charmaine
+                plaide coupable à l'homicide par négligence criminelle, et se engage à une période de probation d'un an
+                à condition Delilah ne met pas sur le jeu. Alors que Charmaine sera découpé de la succession, son enfant
+                à naître contrôle encore un tiers. Une clinique de fertilité implanté un substitut avec elle et l'enfant
+                de Walter.<br/><br/>
+
+                Pendant ce temps, Barba se occupe avec le drame de sa propre famille. Son abuelita est vieux et malade,
+                et sa mère a du mal à prendre soin d'elle. Barba tente de convaincre sa mère de mettre abuelita dans une
+                maison de retraite, mais elle refuse. Ils vont vérifier une place, mais sa grand-mère déteste - elle
+                veut rester dans sa sixième étage sans ascenseur. Barba a enfin pour la forcer dans une maison contre
+                son gré. Malheureusement, avant qu'il le peut, son abuelita est retrouvé mort dans son appartement. Elle
+                n'a toujours dit qu'elle voulait mourir dans sa propre maison.<br/><br/>
+            </p>
+        </div>
+        <h3>Season 16 Episode 15</h3>
+
+        <div>
+            <h2>Mere Undercover</h2>
+            <img src="img/150211_2846465_Undercover_Mother.jpg">
+
+            <p>
+                L'équipe se trouve dans SVU camionnettes de surveillance, au jalonnement un bordel du centre-ville,
+                tandis que Carisi pose comme john intérieur. Il a attendu pour son jour pendant un certain temps, mais
+                l'une des maquerelles, Martha, lui assure une livraison de jeunes filles est sur le chemin. En ce
+                moment, une fourgonnette arrive et filles légèrement vêtues grimper sur, dirigé par une femme SVU
+                connaît bien: Selena Cruz, le trafiquant Benson réunie avec son fils dans la première Saison 16. On
+                dirait qu'elle est de retour à ses vieux trucs ...<br/><br/>
+
+                SVU bustes bordel, y compris Selena, Carisi et Martha, prenant tout le monde dans la station. Martha
+                tire Benson de côté et lui dit qu'elle est infiltré - elle ne est pas avec une agence, mais l'anneau a
+                sa fille Ariel, qui a été enlevé il ya trois ans. Benson est sceptique, si Martha l'emmène à son
+                appartement, où les murs sont couverts dans une compilation de photos, coupures de journaux, des cartes
+                et gribouillages détaillant la chasse de Martha pour sa fille disparue. Ariel était censé être dans la
+                prestation des filles ce soir-là, mais le proxénète d'Ariel, Timmer, retenait deux filles pour
+                discipliner. Malgré l'histoire de Martha, Barba veut toujours la poursuivre. Martha plaide avec Barba
+                qu'elle ne est pas un criminel. Elle a personnellement acheté et envoyé à la maison une demi-douzaine de
+                filles, leur épargnant le commerce du sexe. Elle allait acheter Ariel cette nuit. Benson et Barba
+                promettent qu'ils vont faire de leur mieux pour trouver Ariel, mais ils vont avoir besoin de la
+                coopération de Martha.<br/><br/>
+
+                Les détectives tentent d'obtenir les autres prostituées de leur donner d'informations sur Ariel, mais
+                personne ne vont parler, y compris Selena - pas même lorsque Amaro informe ses garde d'enfants ont pris
+                son fils. Plus tard, Selena a un changement de cœur et veut revoir son fils. Elle donne SVU l'adresse
+                d'une maison du parti dans le Queens, qui reconnaît Martha. Elle connaît la madame, Tracy. SVU enjeux
+                sur la place et voit Timmer apportant trois filles, mais aucune Ariel. Lorsque Timmer laisse, les
+                détectives repèrent un camion de livraison de bière et le buste du conducteur, Tommy, pour la
+                distribution illégale d'alcool à une résidence.<br/><br/>
+
+                Super Bowl dimanche est le jour suivant, et il est sûr d'être une grande fête à la maison Queens. Tommy
+                les informe que ce est un événement de grande classe, avec les meilleures filles et les clients les plus
+                riches. Les détectives décident de profiter de cela, mettre la surveillance de la maison tout en Amaro
+                prend le camion de Tommy et pose que le livreur de bière. Dès qu'il est à l'intérieur, le reste de
+                l'équipe fait irruption et prend en charge la maison. Benson explique à Tracy qu'elle doit aller de pair
+                avec la partie comme prévu, et quand SVU rend le buste, elle va faire semblant qu'elle a éclaté, aussi -
+                et elle mieux faire bien paraître. Benson montre alors la photo de Tracy Ariel et exige elle fait une
+                demande spéciale pour elle. On dirait que les détectives vont d'infiltration ...<br/><br/>
+
+                Le lendemain, la fête continue comme prévu, avec Benson parée de ses plus beaux madame-porter, se
+                faisant passer pour la sœur de Tracy-frère, Carisi jouer un riche john et Fin comme un proxénète. De la
+                camionnette de surveillance à l'extérieur, Martha commence à se inquiéter - elle ne voit pas Ariel
+                partout. A l'intérieur, Carisi commence à se agiter - où est son lapin de glace sexy ?! Juste à ce
+                moment, une voiture se arrête et un proxénète mystère sort. Tracy dit que ce est l'évêque, mais il est
+                seul - Timmer dû lui appelé à la recherche d'Ariel. Cela ne peut pas être bon.<br/><br/>
+
+                Les tempêtes évêque en hurlant, pour Timmer pour expliquer qui Benson et Fin sont. Lorsque Benson tourne
+                autour de répondre, elle est choquée de voir l'évêque ne est autre que Declan Murphy, ancien chef de
+                SVU, désormais profondément infiltré. Lorsque Carisi, qui ne sait pas qui est Murphy, commence les
+                agressions verbales, L'évêque lui fouette pistolet dans la tête, le renversant. Soudain, Benson sort son
+                pistolet, pointe vers Murphy et lui dit de laisser tomber le pistolet. Après un court bras de fer, le
+                reste des rafales de l'escouade SVU dans la porte et bustes l'ensemble du parti, y compris Benson, Fin
+                et Carisi.<br/><br/>
+
+                Retour à la gare, Murphy explose à Benson et Fin de ruiner sa mission d'infiltration. Benson lui
+                explique qu'ils recherchent Ariel, mais il a de plus grandes priorités, en tenant particulièrement bas
+                d'un gros trafiquant, Johnny D. Il admet qu'il sait Ariel, mais elle a des biens endommagés depuis
+                Timmer a battue avant de la vendre à Johnny D. Il ne sait pas où Johnny D. garde ses filles et refuse de
+                compromettre sa couverture en demandant d'acheter Ariel de lui. Il est trop tard pour Ariel - elle est
+                trop cassé.<br/><br/>
+
+                Rollins essaie de parler à l'une des filles, Nina, que Martha dit Ariel sait. Nina est terrifié mais
+                admet Martha devait elle et Ariel acheter jusqu'à Timmer entré avec Ariel au téléphone avec elle et la
+                battre jusqu'à ce qu'elle noirci. Nina ne sera pas dire autre chose - elle ne veut pas finir comme
+                Ariel. Martha montres l'interrogatoire, dévasté qu'elle a failli se faire tuer sa fille.<br/><br/>
+
+                Rollins et Fin puis attaquer Timmer, bluffent qu'ils ont été sur lui pendant un an, intégrant Selena et
+                Martha juste pour obtenir de lui. Mais ils vont à lui et l'évêque libérer parce qu'ils ne avaient pas de
+                mandat de perquisition. Cela ne signifie pas de Timmer en clair, cependant, parce que les deux L'évêque
+                et Johnny D. pensent Timmer les mis en place et ils vont sûrement hors de sang. Timmer est un homme mort
+                ... à moins qu'il ne aide SVU trouver Ariel ...<br/><br/>
+
+                SVU et l'ESU tempête un espace converti ombragé, trouver un certain nombre de femmes battues moitié-nue
+                enchaînés aux murs, entourés par des seringues et des médicaments. Après avoir poussé à travers diverses
+                chambres, ils trouvent Johnny D. utilisant Ariel comme un bouclier, un morceau de verre tenue à son cou.
+                Benson l'emmène vers le bas et sauve Ariel, qui est enfin réunie avec sa mère. Retour à la gare, Murphy
+                félicite l'équipe pour épingler Johnny D., mais les avertit de ne pas tourner le dos à lui. Il traite
+                les filles pendant 20 ans et n'a jamais été arrêté. Rollins demande si, maintenant que Johnny est
+                confrontée à la vie en prison, Murphy peut revenir à la vie normale, mais ce ne est pas facile. Johnny
+                D. était la cheville ouvrière, et l'évêque est héritier présomptif.<br/><br/>
+
+                Cette nuit-là, Benson est la lecture à domicile à Noé lorsque les Les sonne à la porte. Ce est ME
+                Melinda Warner avec de grandes nouvelles - off-the-book nouvelles. Elle courut l'ADN de Johnny D. quand
+                il est allé
+                dans le système et trouvé une correspondance familiale dans une autre affaire. Il ne doit jamais
+                savoir, mais Benson fait. Johnny D. est le père de Noé.<br/><br/>
+            </p>
+        </div>
+    </div>
+</div>
+<footer class="footer">
+    <div class="inner-content">
+    <span class="footer-brand">
+	  <strong class="text-danger">Law & Order: Special Victims Unit</strong>
+	</span>
+
+        <span class="footer-rights">
+            &copy; 2015 <strong>Mark Thompson</strong>. ALL Rights Reserved.
+        </span>
+    </div>
+</footer>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+<script src="js/jquery.bxslider.min.js"></script>
+<script src="js/main.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#date").datepicker();
+        $('.bxslider').bxSlider({
+            slideWidth: 1024,
+            adaptiveHeight: false,
+            responsive: true,
+            minSlides: 1,
+            maxSlides: 1
+        });
+        $("#episodes").accordion();
+    });
+</script>
+</body>
+</html>

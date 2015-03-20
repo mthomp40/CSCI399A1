@@ -30,7 +30,7 @@ p {
     height: 100%;
     margin: 0 auto 0;
     max-width: 1148px;
-    padding: 10px 0 20px 20px;
+    padding: 10px 0;
     -webkit-box-shadow: 0px 7px 10px #1c1c1c;
     -moz-box-shadow: 0px 7px 10px #1c1c1c;
     box-shadow: 0px 7px 10px #1c1c1c;
@@ -99,6 +99,16 @@ p {
 .navbar-header img {
     height: 53px;
     width: auto;
+}
+
+#language {
+    margin-top: 12px;
+}
+
+#language img {
+    margin-top: -4px;
+    width: 30px;
+    height: 30px;
 }
 
 #language-select {
@@ -176,4 +186,16 @@ p {
 #custom-bootstrap-menu.navbar-default .navbar-toggle:hover .icon-bar,
 #custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
     background-color: #888;
+}
+
+.container.picsrow {
+    padding-right: 40px;
+}
+
+.container.picsrow .panel {
+    background-color: #cccccc;
+}
+
+.container.picsrow > .row {
+    text-align: center;
 }
